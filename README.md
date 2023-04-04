@@ -16,13 +16,13 @@
 
 <div style="display:flex; flex-direction:row;" align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" width="30" height="30">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" width="30" height="30">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" width="30" height="30">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" width="30" height="30">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" width="30" height="30">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" width="30" height="30">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" width="30" height="30">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" width="30" height="30">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" width="30" height="30">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30" height="30">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="30" height="30">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" width="30" height="30">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="30" height="30">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="30" height="30">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="30" height="30">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" width="30" height="30">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" width="30" height="30">
 </div>
 
