@@ -1,3 +1,7 @@
+<div style="display: flex; text-align:center;">
+    <img src="">
+</div>
+
 
 <div style="display:flex; flex-direction:row;">
     <img src="https://github-readme-stats.vercel.app/api?username=yagoAribeiro&show_icons=true&theme=radical&border_color=DF61F1">
