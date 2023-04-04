@@ -10,7 +10,15 @@
     <img src="http://github-readme-streak-stats.herokuapp.com?user=yagoAribeiro&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly">
 </div>
 
-<div>
+<div style="display:flex; flex-direction:row;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" width="30" height="30">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" width="30" height="30">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" width="30" height="30">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" width="30" height="30">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" width="30" height="30">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" width="30" height="30">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" width="30" height="30">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" width="30" height="30">
     <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" width="30" height="30">
 </div>
 
