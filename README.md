@@ -17,7 +17,7 @@
 </div>
 <h2 style="margin:20px; font-size:19pt;" align="center">My Knowledge</h2>
 
-<div style="display:flex; flex-direction:row;" align="center">
+<div style="display:flex; flex-direction:row; margin-bottom:20px;" align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" width="30" height="30">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30" height="30">
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="30" height="30">
