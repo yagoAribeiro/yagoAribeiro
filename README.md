@@ -24,5 +24,14 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="30" height="30">
     <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" width="30" height="30">
     <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" width="30" height="30">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="30" height="30">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" width="30" height="30">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="30" height="30">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" width="30" height="30">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30" height="30">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="30" height="30">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="30" height="30">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sql/sql-original.svg" width="30" height="30">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width="30" height="30">
 </div>
 
