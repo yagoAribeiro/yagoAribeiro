@@ -10,3 +10,7 @@
     <img src="http://github-readme-streak-stats.herokuapp.com?user=yagoAribeiro&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly">
 </div>
 
+<div>
+    <a href="https://github.com/devicons/devicon/tree/master/icons/godot">
+</div>
+
