@@ -1,8 +1,10 @@
 <div align="center">
     <img src="https://github.com/yagoAribeiro/yagoAribeiro/blob/main/banner.gif" width="820">
 </div>
+<h2 style="margin:20px; font-size:19pt;" align="center">Presentation</h2>
+<p style="font-size:13pt;" align="center"></p>
 <hr>
-<h2 style="margin:20px; font-size:19pt;" align="center">YagoA</h2>
+<h2 style="margin:20px; font-size:19pt;" align="center">GitHub Stats</h2>
 
 <div style="display:flex; flex-direction:row;" align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=yagoAribeiro&show_icons=true&theme=radical&border_color=DF61F1">
@@ -21,4 +23,4 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" width="30" height="30">
     <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" width="30" height="30">
 </div>
-
+<hr>
