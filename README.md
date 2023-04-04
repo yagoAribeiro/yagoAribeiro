@@ -11,6 +11,6 @@
 </div>
 
 <div>
-    <a href="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg">
+    <a src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg">
 </div>
 
