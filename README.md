@@ -5,7 +5,7 @@
 <p style="font-size:13pt;" align="center">My name is Yago and im'a brazillian developer and CS student, i started my programming studies in ETEC de Guaianazes (São Paulo, Brazil) where i learned the basics of front-end and back-end, i have some web projects and mobile applications maded by me, but mainly my big projects was games, i started in game development after my succesful game project named "DescontoZ" who i've used for presentation in my university. Actually searching for more opportunities of learning and career.</p>
 
 <div align="center">
-    <img src="https://github.com/yagoAribeiro/yagoAribeiro/blob/main/github_video.gif" width="820">
+    <img src="https://github.com/yagoAribeiro/yagoAribeiro/blob/main/github_video.gif">
 </div>
 
 <h2 style="margin:20px; font-size:19pt;" align="center">My GitHub Stats</h2>
