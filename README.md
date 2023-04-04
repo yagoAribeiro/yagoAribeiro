@@ -11,6 +11,6 @@
 </div>
 
 <div>
-    <a href="https://github.com/devicons/devicon/tree/master/icons/godot">
+    <img src="https://github.com/devicons/devicon/tree/master/icons/godot">
 </div>
 
