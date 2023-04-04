@@ -1,4 +1,4 @@
-<div style="display: flex; text-align:center;">
+<div style="border:3px solid #111111; padding-bottom: 30px;" align="center">
     <img src="https://github.com/yagoAribeiro/yagoAribeiro/blob/main/banner.gif">
 </div>
 
