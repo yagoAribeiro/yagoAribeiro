@@ -1,5 +1,5 @@
 <div style="display: flex; text-align:center;">
-    <img src="https://github.com/yagoAribeiro/yagoAribeiro/blob/main/banner.png">
+    <img src="https://github.com/yagoAribeiro/yagoAribeiro/blob/main/banner.gif">
 </div>
 
 <h2 style="margin:20px; font-size:19pt;" align="center">YagoA</h2>
