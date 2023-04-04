@@ -41,5 +41,5 @@
 <br>
 <br>
 <div style="display:flex; flex-direction:row;" align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=yagoAribeiro&theme=onedark&column=7">
+    <img src="https://github-profile-trophy.vercel.app/?username=yagoAribeiro&theme=onedark&column=3">
 </div>
