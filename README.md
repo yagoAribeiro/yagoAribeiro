@@ -31,7 +31,12 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30" height="30">
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="30" height="30">
     <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="30" height="30">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sql/sql-original.svg" width="30" height="30">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="30" height="30">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original.svg" width="30" height="30">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/gamemaker/gamemaker-original.svg" width="30" height="30">
     <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width="30" height="30">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30" height="30">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="30" height="30">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" width="30" height="30">
 </div>
 
