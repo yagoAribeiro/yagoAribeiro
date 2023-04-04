@@ -2,15 +2,17 @@
     <img src="https://github.com/yagoAribeiro/yagoAribeiro/blob/main/banner.gif" width="820">
 </div>
 <h2 style="margin:20px; font-size:19pt;" align="center">Presentation</h2>
-<p style="font-size:13pt;" align="center"></p>
+<p style="font-size:13pt;" align="center">My name is Yago and im'a brazillian developer and CS student, i started my programming studies in ETEC de Guaianazes (São Paulo, Brazil) mainly as a full stack web developer where i learned the basics from front-end and back-end, i have some web projects and mobile applications maded by me, but mainly my big projects was games, i started in game development after my succesful game project named "DescontoZ" who i've used for presentation in my university. Actually searching for more opportunities of learning and career.</p>
 
-<h2 style="margin:20px; font-size:19pt;" align="center">GitHub Stats</h2>
+<h2 style="margin:20px; font-size:19pt;" align="center">My GitHub Stats</h2>
 
 <div style="display:flex; flex-direction:row;" align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=yagoAribeiro&show_icons=true&theme=radical&border_color=DF61F1">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagoAribeiro&langs_count=8&layout=compact&theme=radical&border_color=DF61F1">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=yagoAribeiro&theme=radical&date_format=j%20M%5B%20Y%5D&mode=weekly">
 </div>
+
+<h2 style="margin:20px; font-size:19pt;" align="center">My Knowledge</h2>
 
 <div style="display:flex; flex-direction:row;" align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" width="30" height="30">
