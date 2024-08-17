@@ -36,7 +36,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width="30" height="30">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30" height="30">
     <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="30" height="30">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" width="30" height="30">
 </div>
 <br>
 <br>
