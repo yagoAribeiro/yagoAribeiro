@@ -7,7 +7,7 @@
 <div align="center">
     <img src="https://github.com/yagoAribeiro/yagoAribeiro/blob/main/github-video.gif">
 </div>
-<h2 style="margin:20px; font-size:19pt;" align="center">My GitHub Stats</h2>
+<h2 style="margin:20px; font-size:19pt;" align="center">Languages i use</h2>
 
 <div style="display:flex; flex-direction:row;" align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagoAribeiro&langs_count=8&layout=compact&theme=radical&border_color=DF61F1">
