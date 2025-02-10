@@ -2,7 +2,11 @@
    <img src="https://github.com/yagoAribeiro/yagoAribeiro/blob/main/banner.gif" width="820">
 </div>-->
 <h2 style="margin:20px; font-size:19pt;" align="center">Presentation</h2>
-<p style="font-size:13pt;" align="center">Im Yago and im'a brazillian developer and CS student, i started my programming studies in ETEC de Guaianazes (São Paulo, Brazil) where i learned the basics of front-end and back-end, i have some web projects and mobile applications maded by me, but mainly my big projects are games, i started in game development after my game project named "DescontoZ" who i've used for presentation in my university. Actually searching for more opportunities of learning and growing in career.</p>
+<p style="font-size:13pt;" align="center">Im Yago and im'a brazillian developer and CS student. I started my programming studies at ETEC de Guaianazes (São Paulo, Brazil) where i learned the basics of front-end and back-end development, as well the basics of many subjects about computers. Here i have some projects made by me. Mainly my big projects are games prototypes or bots. I've been into game development since my game project named "DescontoZ" who i've used for presentation in my university. 
+
+Currently working as a software developer intern at Danval Industry, São Paulo, since 2023.
+   
+Actually searching for more opportunities of learning and growing in career.</p>
 
 <div align="center">
     <img src="https://github.com/yagoAribeiro/yagoAribeiro/blob/main/github-video.gif">
